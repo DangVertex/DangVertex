@@ -2,9 +2,9 @@
 
 ---
 
-CS student at De Anza College pursuing transfer to a 4-year university  
-Building full-stack and agentic AI systems  
-Looking to break into AI/ML Engineering
+<br>CS student at De Anza College pursuing transfer to a 4-year university  
+<br>Building full-stack and agentic AI systems  
+<br>Looking to break into AI/ML Engineering
 
 [![EMAIL](https://img.shields.io/badge/EMAIL-haidandd%40gmail.com-gray?style=flat-square&logo=gmail&logoColor=white&labelColor=555)](mailto:haidandd@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-Haidan%20Dang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haidan-dang)
