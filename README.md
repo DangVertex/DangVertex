@@ -6,8 +6,6 @@ CS student at De Anza College pursuing transfer to a 4-year university
 Building full-stack and agentic AI systems  
 Looking to break into AI/ML Engineering
 
-Other hobbies 
-Power lifting, Cooking, Hiking, Golfing, Basketball
 [![EMAIL](https://img.shields.io/badge/EMAIL-haidandd%40gmail.com-gray?style=flat-square&logo=gmail&logoColor=white&labelColor=555)](mailto:haidandd@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-Haidan%20Dang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haidan-dang-970071341)
 [![GITHUB](https://img.shields.io/badge/GITHUB-DangVertex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangVertex)
@@ -42,3 +40,4 @@ Power lifting, Cooking, Hiking, Golfing, Basketball
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/RAILWAY-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
+⚡ Hobbies: Power lifting · Cooking · Hiking · Golfing · Basketball
